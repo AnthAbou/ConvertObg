@@ -33,7 +33,7 @@ from decimal import Decimal
 
 #update this if we get a city below .75% tax rate
 MIN_TAX_RATE = .74
-OBG_FILE_LOCATION = "/sybdisk10/production/sybbatch_pgms/nacha_obg/"
+OBG_FILE_LOCATION = "*"
 
 #custom exit 
 def quitout(_code):
